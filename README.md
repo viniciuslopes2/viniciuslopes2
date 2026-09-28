@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-silva-lopes-976217296/"><img src="https://img.shields.io/badge/LinkedIn-120E0B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Q5NjIyQiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=&logoColor=D9622B" /></a>
-  <a href="https://www.instagram.com/vinny.slps/"><img src="https://img.shields.io/badge/Instagram-120E0B?style=flat-square&logo=instagram&logoColor=D9622B" /></a>
+  <a href="https://www.instagram.com/vinnyy.slps/"><img src="https://img.shields.io/badge/Instagram-120E0B?style=flat-square&logo=instagram&logoColor=D9622B" /></a>
   <img src="https://img.shields.io/badge/S%C3%A3o%20Jos%C3%A9%20dos%20Campos-SP-120E0B?style=flat-square&labelColor=120E0B&color=D9622B" />
 </p>
 
@@ -130,21 +130,11 @@ Também passei pela **Technolife Informática** como estagiário técnico, cuida
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciuslopes2/viniciuslopes2/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciuslopes2/viniciuslopes2/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/viniciuslopes2/viniciuslopes2/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
-<br>
-
 ## › Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-silva-lopes-976217296/"><img src="https://img.shields.io/badge/LinkedIn-Vin%C3%ADcius%20Silva%20Lopes-120E0B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Q5NjIyQiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=&logoColor=D9622B&labelColor=120E0B&color=D9622B" /></a>
-  <a href="https://www.instagram.com/vinny.slps/"><img src="https://img.shields.io/badge/Instagram-%40vinny.slps-120E0B?style=for-the-badge&logo=instagram&logoColor=D9622B&labelColor=120E0B&color=D9622B" /></a>
+  <a href="https://www.instagram.com/vinnyy.slps/"><img src="https://img.shields.io/badge/Instagram-%40vinnyy.slps-120E0B?style=for-the-badge&logo=instagram&logoColor=D9622B&labelColor=120E0B&color=D9622B" /></a>
   <a href="https://github.com/viniciuslopes2"><img src="https://img.shields.io/badge/GitHub-viniciuslopes2-120E0B?style=for-the-badge&logo=github&logoColor=D9622B&labelColor=120E0B&color=D9622B" /></a>
 </p>
 

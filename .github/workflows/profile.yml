@@ -27,13 +27,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OUTPUT_DIR: dist
 
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=D9622B
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=D9622B&color_dots=1B1410,3A1E10,7A3A18,B5521F,FFB27A
-
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
