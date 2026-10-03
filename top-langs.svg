@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="200" viewBox="0 0 450 200" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">
+<rect x="0.5" y="0.5" width="449" height="199" rx="10" fill="#120E0B" stroke="#2A1E16"/>
+<text x="24" y="36" fill="#D9622B" font-size="17" font-weight="600">Linguagens mais usadas</text>
+<clipPath id="bar"><rect x="24" y="54" width="402" height="8" rx="4"/></clipPath>
+<rect x="24" y="54" width="402" height="8" rx="4" fill="#2A1E16"/>
+<g clip-path="url(#bar)"><rect x="24.00" y="54" width="130.22" height="8" fill="#D9622B"/>
+<rect x="154.22" y="54" width="77.26" height="8" fill="#FFB27A"/>
+<rect x="231.48" y="54" width="64.49" height="8" fill="#B5521F"/>
+<rect x="295.97" y="54" width="61.42" height="8" fill="#F2A65A"/>
+<rect x="357.39" y="54" width="56.61" height="8" fill="#8A3F18"/>
+<rect x="414.00" y="54" width="11.85" height="8" fill="#FFD8B5"/>
+<rect x="425.85" y="54" width="0.15" height="8" fill="#6B3214"/></g>
+<circle cx="29" cy="88" r="5" fill="#D9622B"/>
+<text x="42" y="92" fill="#E8DCCF" font-size="13">TypeScript <tspan fill="#9C8B7C">32.4%</tspan></text>
+<circle cx="234" cy="88" r="5" fill="#FFB27A"/>
+<text x="247" y="92" fill="#E8DCCF" font-size="13">CSS <tspan fill="#9C8B7C">19.2%</tspan></text>
+<circle cx="29" cy="114" r="5" fill="#B5521F"/>
+<text x="42" y="118" fill="#E8DCCF" font-size="13">HTML <tspan fill="#9C8B7C">16.0%</tspan></text>
+<circle cx="234" cy="114" r="5" fill="#F2A65A"/>
+<text x="247" y="118" fill="#E8DCCF" font-size="13">Python <tspan fill="#9C8B7C">15.3%</tspan></text>
+<circle cx="29" cy="140" r="5" fill="#8A3F18"/>
+<text x="42" y="144" fill="#E8DCCF" font-size="13">JavaScript <tspan fill="#9C8B7C">14.1%</tspan></text>
+<circle cx="234" cy="140" r="5" fill="#FFD8B5"/>
+<text x="247" y="144" fill="#E8DCCF" font-size="13">Java <tspan fill="#9C8B7C">2.9%</tspan></text>
+<circle cx="29" cy="166" r="5" fill="#6B3214"/>
+<text x="42" y="170" fill="#E8DCCF" font-size="13">Dockerfile <tspan fill="#9C8B7C">0.0%</tspan></text>
+</svg>
