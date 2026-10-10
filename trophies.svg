@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="150" viewBox="0 0 780 150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">
+<g transform="translate(0 0)">
+<rect x="0" y="0" width="120" height="150" rx="10" fill="#120E0B" stroke="#2A1E16"/>
+<g transform="translate(60 46)" fill="none" stroke="#B5521F" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M-17 -22 H17 V-6 A17 17 0 0 1 -17 -6 Z" fill="#B5521F" fill-opacity="0.18"/>
+<path d="M-17 -16 H-25 V-10 A9 9 0 0 0 -16 -2"/>
+<path d="M17 -16 H25 V-10 A9 9 0 0 1 16 -2"/>
+<path d="M0 11 V20"/>
+<path d="M-12 24 H12"/>
+</g>
+<text x="60" y="44" fill="#B5521F" font-size="12" font-weight="700" text-anchor="middle">B</text>
+<text x="60" y="102" fill="#E8DCCF" font-size="13" font-weight="600" text-anchor="middle">Commits</text>
+<text x="60" y="124" fill="#9C8B7C" font-size="12" text-anchor="middle">131</text>
+</g>
+<g transform="translate(132 0)">
+<rect x="0" y="0" width="120" height="150" rx="10" fill="#120E0B" stroke="#2A1E16"/>
+<g transform="translate(60 46)" fill="none" stroke="#D9622B" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M-17 -22 H17 V-6 A17 17 0 0 1 -17 -6 Z" fill="#D9622B" fill-opacity="0.18"/>
+<path d="M-17 -16 H-25 V-10 A9 9 0 0 0 -16 -2"/>
+<path d="M17 -16 H25 V-10 A9 9 0 0 1 16 -2"/>
+<path d="M0 11 V20"/>
+<path d="M-12 24 H12"/>
+</g>
+<text x="60" y="44" fill="#D9622B" font-size="12" font-weight="700" text-anchor="middle">A</text>
+<text x="60" y="102" fill="#E8DCCF" font-size="13" font-weight="600" text-anchor="middle">Contribuições</text>
+<text x="60" y="124" fill="#9C8B7C" font-size="12" text-anchor="middle">157</text>
+</g>
+<g transform="translate(264 0)">
+<rect x="0" y="0" width="120" height="150" rx="10" fill="#120E0B" stroke="#2A1E16"/>
+<g transform="translate(60 46)" fill="none" stroke="#B5521F" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M-17 -22 H17 V-6 A17 17 0 0 1 -17 -6 Z" fill="#B5521F" fill-opacity="0.18"/>
+<path d="M-17 -16 H-25 V-10 A9 9 0 0 0 -16 -2"/>
+<path d="M17 -16 H25 V-10 A9 9 0 0 1 16 -2"/>
+<path d="M0 11 V20"/>
+<path d="M-12 24 H12"/>
+</g>
+<text x="60" y="44" fill="#B5521F" font-size="12" font-weight="700" text-anchor="middle">B</text>
+<text x="60" y="102" fill="#E8DCCF" font-size="13" font-weight="600" text-anchor="middle">Pull Requests</text>
+<text x="60" y="124" fill="#9C8B7C" font-size="12" text-anchor="middle">7</text>
+</g>
+<g transform="translate(396 0)">
+<rect x="0" y="0" width="120" height="150" rx="10" fill="#120E0B" stroke="#2A1E16"/>
+<g transform="translate(60 46)" fill="none" stroke="#D9622B" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M-17 -22 H17 V-6 A17 17 0 0 1 -17 -6 Z" fill="#D9622B" fill-opacity="0.18"/>
+<path d="M-17 -16 H-25 V-10 A9 9 0 0 0 -16 -2"/>
+<path d="M17 -16 H25 V-10 A9 9 0 0 1 16 -2"/>
+<path d="M0 11 V20"/>
+<path d="M-12 24 H12"/>
+</g>
+<text x="60" y="44" fill="#D9622B" font-size="12" font-weight="700" text-anchor="middle">A</text>
+<text x="60" y="102" fill="#E8DCCF" font-size="13" font-weight="600" text-anchor="middle">Repositórios</text>
+<text x="60" y="124" fill="#9C8B7C" font-size="12" text-anchor="middle">27</text>
+</g>
+<g transform="translate(528 0)">
+<rect x="0" y="0" width="120" height="150" rx="10" fill="#120E0B" stroke="#2A1E16"/>
+<g transform="translate(60 46)" fill="none" stroke="#8A7B6E" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M-17 -22 H17 V-6 A17 17 0 0 1 -17 -6 Z" fill="#8A7B6E" fill-opacity="0.18"/>
+<path d="M-17 -16 H-25 V-10 A9 9 0 0 0 -16 -2"/>
+<path d="M17 -16 H25 V-10 A9 9 0 0 1 16 -2"/>
+<path d="M0 11 V20"/>
+<path d="M-12 24 H12"/>
+</g>
+<text x="60" y="44" fill="#8A7B6E" font-size="12" font-weight="700" text-anchor="middle">C</text>
+<text x="60" y="102" fill="#E8DCCF" font-size="13" font-weight="600" text-anchor="middle">Estrelas</text>
+<text x="60" y="124" fill="#9C8B7C" font-size="12" text-anchor="middle">4</text>
+</g>
+<g transform="translate(660 0)">
+<rect x="0" y="0" width="120" height="150" rx="10" fill="#120E0B" stroke="#2A1E16"/>
+<g transform="translate(60 46)" fill="none" stroke="#B5521F" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M-17 -22 H17 V-6 A17 17 0 0 1 -17 -6 Z" fill="#B5521F" fill-opacity="0.18"/>
+<path d="M-17 -16 H-25 V-10 A9 9 0 0 0 -16 -2"/>
+<path d="M17 -16 H25 V-10 A9 9 0 0 1 16 -2"/>
+<path d="M0 11 V20"/>
+<path d="M-12 24 H12"/>
+</g>
+<text x="60" y="44" fill="#B5521F" font-size="12" font-weight="700" text-anchor="middle">B</text>
+<text x="60" y="102" fill="#E8DCCF" font-size="13" font-weight="600" text-anchor="middle">Seguidores</text>
+<text x="60" y="124" fill="#9C8B7C" font-size="12" text-anchor="middle">11</text>
+</g>
+</svg>
